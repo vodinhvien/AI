@@ -1,0 +1,2 @@
+Source code chạy trên Netbeans, cài đặt Netbeans về máy
+tính để import project về
